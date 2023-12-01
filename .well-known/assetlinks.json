@@ -1,9 +1,1 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.donanimhaber.dhandroid",
-    "sha256_cert_fingerprints":
-    ["D3:16:B2:CA:BF:5E:F1:71:CF:C9:C0:98:34:59:89:83:E8:47:D5:85:93:AE:D2:50:06:B1:D1:8C:AD:19:1C:28"]
-  }
-}]
+[]
